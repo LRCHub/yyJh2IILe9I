@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "メロウ",
+  "base_artist": "Nornis",
+  "createdAt": "2026-03-25T18:18:22.745948Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "メロウ",
+      "artist": "Sheena Ringo",
+      "has_synced": true,
+      "path": "select/01_メロウ_Sheena_Ringo.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "メロウ",
+      "artist": "GEMS COMPANY",
+      "has_synced": false,
+      "path": "select/02_メロウ_GEMS_COMPANY.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "メロウ",
+      "artist": "須田景凪",
+      "has_synced": true,
+      "path": "select/03_メロウ_須田景凪.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "メロウ",
+      "artist": "須田景凪",
+      "has_synced": true,
+      "path": "select/04_メロウ_須田景凪.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "メロウ",
+      "artist": "chouchou merged syrups.",
+      "has_synced": false,
+      "path": "select/05_メロウ_chouchou_merged_syrups..txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "メロウ",
+      "artist": "Shiina, Ringo",
+      "has_synced": true,
+      "path": "select/06_メロウ_Shiina,_Ringo.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "メロウ",
+      "artist": "Nornis",
+      "has_synced": true,
+      "path": "select/07_メロウ_Nornis.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "メロウ",
+      "artist": "Shiina Ringo",
+      "has_synced": true,
+      "path": "select/08_メロウ_Shiina_Ringo.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "メロウ",
+      "artist": "椎名林檎",
+      "has_synced": true,
+      "path": "select/09_メロウ_椎名林檎.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "メロウ - MEROU",
+      "artist": "Nornis",
+      "has_synced": true,
+      "path": "select/10_メロウ_-_MEROU_Nornis.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "メロウ - Mellow",
+      "artist": "Sheena Ringo",
+      "has_synced": true,
+      "path": "select/11_メロウ_-_Mellow_Sheena_Ringo.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "須田景凪 - メロウ(Music Video)",
+      "artist": "Keina Suda",
+      "has_synced": true,
+      "path": "select/12_須田景凪_-_メロウ(Music_Video)_Keina_Suda.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "メロウ",
+      "artist": "Ringo Shiina",
+      "has_synced": true,
+      "path": "select/13_メロウ_Ringo_Shiina.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "メロウ",
+      "artist": "椎名 林檎",
+      "has_synced": true,
+      "path": "select/14_メロウ_椎名_林檎.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "メロウ",
+      "artist": "sleepy.ab",
+      "has_synced": false,
+      "path": "select/15_メロウ_sleepy.ab.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "トラック5_お泊まり中❤でも〝メロウ〟の邪魔はしないでくんない？",
+      "artist": "制服days(旧:甘声)",
+      "has_synced": true,
+      "path": "select/16_トラック5_お泊まり中❤でも〝メロウ〟の邪魔はしないでくんない_制服days(旧_甘声).lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "メロウ",
+      "artist": "Nornis",
+      "has_synced": false,
+      "path": "select/pl_01_メロウ_Nornis.txt"
+    }
+  ]
+}
