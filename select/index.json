@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "メロウ",
   "base_artist": "Nornis",
-  "createdAt": "2026-03-25T18:18:22.745948Z",
+  "createdAt": "2026-03-25T18:57:25.713611Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -139,6 +139,15 @@
       "artist": "Nornis",
       "has_synced": false,
       "path": "select/pl_01_メロウ_Nornis.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "メロウ",
+      "artist": "Nornis",
+      "has_synced": true,
+      "path": "select/localdb_01_メロウ_Nornis.lrc",
+      "repo_name": "yyJh2IILe9I"
     }
   ]
 }
